@@ -1,6 +1,6 @@
 {
   "name": "express-serve-json-dir",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Express middleware for serving json directory listings",
   "main": "lib/serve_json_dir.js",
   "scripts": {
@@ -24,7 +24,7 @@
   "author": "Eric Lathrop <eric@ericlathrop.com> (http://ericlathrop.com/)",
   "license": "MIT",
   "dependencies": {
-    "async": "^0.9.0"
+    "async": "^1.0.0"
   },
   "devDependencies": {
     "jshint": "^2.5.10",
